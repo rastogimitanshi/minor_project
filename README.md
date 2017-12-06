@@ -1,4 +1,5 @@
-# minor_project
+# B.Tech Minor Project
 
-pip install datefinder
-pip install geograpy
+Project to utilise the full potential of emails and use their contents to link with third-party android applications.
+
+Technology: Python, PHP, Android
